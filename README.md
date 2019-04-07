@@ -12,7 +12,8 @@ Discord.py v0.16 bot
 
 ## documentation
 ri0t-bot is a general use Discord bot. 
-prefix: -
+
+Prefix: -
 
 commands:
 - 8ball: An 8ball thingy, prepare to be mystified
