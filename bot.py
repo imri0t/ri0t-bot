@@ -115,7 +115,7 @@ async def on_member_remove(member):
     channel = member.server.get_channel('421018068811120664')
     await bot.send_message(channel, fmt.format(member.display_name, member.server))
 
-bot.run('NDIyOTAxOTI1MDM0NDU5MTQ3.DaX6Bg.cpP_ggAQVAKNsAnarDjW3weU9MU')
+bot.run('')
 
 # *
 # many thanks to all the folks from github, stack overflow, and reddit 
