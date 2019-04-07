@@ -13,7 +13,8 @@ Discord.py v0.16 bot
 ## documentation
 ri0t-bot is a general use Discord bot. 
 
-Prefix: -
+prefix: -
+
 
 commands:
 - 8ball: An 8ball thingy, prepare to be mystified
@@ -50,6 +51,7 @@ commands:
 - troubleshoot: I'll send your message directly to im.ri0t
 - uwu: I'll send a random uwu message
 - ykn: Sometimes you just don't know
+
 
 music commands
 - leave: I'll leave the voice channel and clear the queue
